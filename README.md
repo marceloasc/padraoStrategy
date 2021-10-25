@@ -1,6 +1,6 @@
 INTRO: 
 
-Projeto basico com o intuito de exemplificar o Pattern Strategy
+Projeto com o intuito de exemplificar o Pattern Strategy
 
 ------------------------------------------------------------------------------------------------
 DIAGRAMA:
